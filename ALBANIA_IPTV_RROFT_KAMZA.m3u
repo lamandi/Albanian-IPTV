@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,REPORT TV
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+
+
